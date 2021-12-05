@@ -22,6 +22,7 @@
    - PolynomialRegression.
 4. Determined that the Polynomial model has the best performance.
 
+**Project Participation**: I worked independently on this project
 
 **To access the Dashboards, follow this link**:
 
@@ -31,3 +32,5 @@ https://public.tableau.com/app/profile/agustin.portilla/viz/FIFABrazil2014/2014D
 ![image](https://user-images.githubusercontent.com/89322259/144755625-a79d7081-55bb-45bc-a5fe-dd0482fb5186.png)
 
 **Other comments**: Project developed only for studying purposes
+
+
