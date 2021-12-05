@@ -21,10 +21,7 @@
    - LinearRegression.
    - PolynomialRegression.
 4. Determined that the Polynomial model has the best performance.
- 
- 
- 
- 
+
 To access the Dashboards, follow this link:
 
 https://public.tableau.com/app/profile/agustin.portilla/viz/FIFABrazil2014/2014DataAnalysis
