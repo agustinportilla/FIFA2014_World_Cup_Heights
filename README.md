@@ -11,6 +11,8 @@
 1. Dashboard Number One (2014: Data Analysis) shows various visualizations that (Bar Chart, Histogram, Scatter Plot, TreeMap and a BoxPlot).
 2. Dashboard Number Two (2014: Data Analytics) compares the results of using different methods (average Body Mass Index, Linear Regression and Polynomial Regression) to predict height.
 
+**Programming Languages**: Python
+
 **Project learning**:
 
 1. Researched about correlation between Height an various factors (Weight, Continent, Position, Age, etc).
