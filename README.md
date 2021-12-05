@@ -29,7 +29,7 @@
 https://public.tableau.com/app/profile/agustin.portilla/viz/FIFABrazil2014/2014DataAnalysis
 
 **Preview**:
-![image](https://user-images.githubusercontent.com/89322259/144755625-a79d7081-55bb-45bc-a5fe-dd0482fb5186.png)
+![image](https://user-images.githubusercontent.com/89322259/144761315-16bd70c4-9625-4358-9807-e2a5fb12ec7c.png)
 
 **Other comments**: Project developed only for studying purposes
 
